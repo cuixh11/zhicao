@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\host_test\\MDK-ARM"
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"host_app.h": "c",
+			"http_json.h": "c"
+		}
+	}
+}
